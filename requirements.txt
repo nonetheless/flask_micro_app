@@ -5,3 +5,4 @@ flask-sqlalchemy
 flask-migrate
 mysqlclient
 setuptools>=36.6.0
+flask_login
